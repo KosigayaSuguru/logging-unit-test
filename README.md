@@ -2,4 +2,5 @@
 
 ## メモ
 
-MyLoggingTest.java を見るとやり方が書いてあるよ。
+* MyLoggingTest.java を見るとやり方が書いてあるよ。
+* Mockは使わないよ。
